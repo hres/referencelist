@@ -150,7 +150,6 @@
                 Courriel: <a href="mailto:FPMIA-MEAAI@hc-sc.gc.ca">FPMIA-MEAAI@hc-sc.gc.ca </a></p>
 	<p><b>Base de données de la liste de référence pour les matériaux de construction, les matériaux d'emballage, et les produits chimiques non alimentaires acceptés</b></br></br>
 		Rechercher: </p>
-<p>&nbsp;</p>
 <!-- beginning of Dropdown list scripts -->
 
 
