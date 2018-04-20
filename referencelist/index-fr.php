@@ -173,7 +173,8 @@ $query = $db->query("SELECT * FROM Categories ORDER BY REPLACE(HeaderF,'\'','') 
 //Count total number of rows
 $rowCount = $query->num_rows;
 ?>
-<select name="category" id="category">
+<div style="text-align: center">
+<select class="form-control"  name="category" id="category" style="width: 45%">
     <option value="">Choisir une catégorie</option>
     <option value="SelectAll">Sélectionner tout</option>
     
@@ -187,13 +188,14 @@ $rowCount = $query->num_rows;
     }
     ?>
 </select>
+</div>
 </p>
 <p>
-
-<select name="subcategory" id="subcategory">
+<div style="text-align: center">
+<select class="form-control" name="subcategory" id="subcategory" style="width: 45%">
     <option value="">Sélectionner une catégorie en premier</option>
 </select>
-
+</div>
 </p>
 
 <span id="displayy" name="displayy"></span>
