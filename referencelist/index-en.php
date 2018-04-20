@@ -151,7 +151,6 @@
 	<p><b>Reference Listing of Accepted Construction Materials, Packaging Materials and Non-Food Chemical Products Database</b></br></br>
 		Search:</p>
 
-<p>&nbsp;</p>
 <!-- beginning of Dropdown list scripts -->
 
 <?php
