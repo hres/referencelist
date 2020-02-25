@@ -241,6 +241,37 @@ $rowCount = $query->num_rows;
 
 
 
+  // Added February 25, 2020 per request of Health Canada
+  <div class="row">
+    <section class="cnt-wdth-lmtd">
+      <h2>Guidelines on how to search the Reference Listing</h2>
+      <p>This database is organized into entries by <strong>category</strong>. Each category is identified by the usage
+        of
+        its products (e.g. cleaners, lubricants, containers, etc.). Each category is then divided into <strong>sub-categories</strong>
+        which break down specific accepted usages for products (e.g. hand cleaners, lubricant with incidental food
+        contact, container for non-food contact, etc.). </p>
+      <h4>Search by Category</h4>
+      <p><strong>Step 1:</strong> Select a category from the drop-down list of reference categories.</p>
+      <p><i>Note: If you would like a list of all products for all categories in the database, please select “select
+        all”
+        and use the “Next” button, which is below the table, to see the following pages. Please note that selecting all
+        categories will generate a report containing all entries.</i></p>
+      <p><strong>Step 2:</strong> Select a <strong>sub-category</strong> from the drop-down list of sub-categories.
+        Please
+        note that choices for sub-categories are dependent upon your first selection of category and therefore will vary
+        between categories.</p>
+      <p><i>Note: If you wish to view all products in your category, you need to “select all” under sub-category.</i>
+      </p>
+      <p><strong>Step 3:</strong> The database will produce a report of the requested material and this will appear on
+        your screen once completed. The report lists the product names and includes the company name and the date of
+        acceptance of each product.</p>
+      <p><strong>Step 4:</strong> If you click on a company name, you can view a list of all products in database from
+        that specific company. The report includes the product name and acceptance date, as well as each category and
+        sub-category in which the product is classified.</p>
+      <p>At any time, you can begin a new search again by clicking select a category in the drop-down list. This will
+        refresh your search. </p>
+    </section>
+  </div>
 
 		
 
